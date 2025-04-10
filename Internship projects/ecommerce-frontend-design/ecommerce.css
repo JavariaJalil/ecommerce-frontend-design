@@ -144,7 +144,9 @@ i{
   display: block;
   margin-top: 15px;
   margin-bottom: 15px;
+  height: 360%;
 }
+.newList
 /* sub section 2 mid */
 .sect-2 {
   margin-left: 15%;
@@ -275,6 +277,7 @@ i{
   margin-bottom: 8px;
   list-style-type: none;
   margin-left: 10px;
+  line-gap-override: 20px;
 }
 .newList:hover {
   background-color: rgb(93.7%, 94.9%, 95.7%);
